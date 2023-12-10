@@ -14,7 +14,8 @@ You must have following programs/packages in order to run this project.
 **integrated development environment** - NetBeans IDE / Visual Studio Code / MySQL Workbench 
 
 ## Approach
-- First need to clone this respiratory.
+- Github: https://github.com/thiyada-kitt/APP-POS
+- First need to clone this repositories. ⬆️
 - Configure your database schema credentials in src/database/DbConnection.
 - Import database using (SQL Developer/SQL++, TOAD, etc).
 - Run this project as part of java code through NetBeans IDE or command prompts.
