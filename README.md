@@ -23,8 +23,9 @@ You must have following programs/packages in order to run this project.
 ## Installation steps
 - Run Executable Java (.jar) Files in Windows.
 - First, once you have the project.jar file, create another run.bat file.
-- Right click on the run.bat file, press edit when run.bat - notepad appears.
-  ``` java -jar project.jar ``` and save in notepad
+- Right click on the run.bat file, press edit
+- when run.bat - notepad appears.
+- write ``` java -jar project.jar ``` and press save in notepad
 - Close run.bat - notepad and then open the run.bat file.
 
 ## How to use
