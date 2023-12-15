@@ -9,6 +9,7 @@
 ## Feature
 - It is accessed through a database system.
 - Can create food categories, Menu
+- Entries can be edited and can be deleted.
 - There is an ordering system.
 - Can keep order history
 
