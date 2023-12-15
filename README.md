@@ -1,4 +1,4 @@
-# APP-POS 416-439
+# WEB APPLICATION POS 416-439
 #### Work for oop project [1/66]
 > This is a POS point of sale system program for restaurants. That was developed in the oo programming concept that can allow users to purchase food items more conveniently.
 -----------------------------------------------------------------------------------------------------------------
@@ -9,12 +9,12 @@
 ## Prerequisites
 You must have following programs/packages in order to run this project.
 
-**Technology** - Java / SQL 
+**Technology** - PHP / HTML / CSS / JavaScript / MySQL / phpMyAdmin
 
-**integrated development environment** - NetBeans IDE / Visual Studio Code / MySQL Workbench 
+**integrated development environment** - Visual Studio Code / MySQL Workbench / Xampp
 
 ## Approach
-- Github: https://github.com/thiyada-kitt/APP-POS
+- Github: https://github.com/thiyada-kitt/EATZABB-POS
 - First need to clone this repositories. ⬆️
 - Configure your database schema credentials in src/database/DbConnection.
 - Import database using (SQL Developer/SQL++, TOAD, etc).
