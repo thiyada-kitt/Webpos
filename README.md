@@ -9,29 +9,27 @@
 ## Prerequisites
 You must have following programs/packages in order to run this project.
 
-**Technology** - PHP / HTML / CSS / JavaScript / MySQL / phpMyAdmin
+**Technology** - PHP / HTML / CSS / JavaScript / MySQL / Xampp
 
-**integrated development environment** - Visual Studio Code / MySQL Workbench / Xampp
+**integrated development environment** - Visual Studio Code / MySQL Workbench 
 
 ## Approach
-- Github: https://github.com/thiyada-kitt/EATZABB-POS
-- First need to clone this repositories. ⬆️
-- Configure your database schema credentials in src/database/DbConnection.
+- First need to download this repositories -> Github: https://github.com/thiyada-kitt/EATZABB-POS
+- Configure your database schema credentials or create schema in MySQLWorkbench [database_name is 'pos_db'] 
 - Import database using (SQL Developer/SQL++, TOAD, etc).
-- Run this project as part of java code through NetBeans IDE or command prompts.
-
-## Installation steps
-- Run Executable Java (.jar) Files in Windows.
-- First, once you have the project.jar file, create another run.bat file.
-- Right click on the run.bat file, press edit
-- when run.bat - notepad appears.
-- write ``` java -jar project.jar ``` and press save in notepad
-- Close run.bat - notepad and then open the run.bat file.
-
+- Open the Xampp server simulator and enable Apache and MySQL.
+- Use the command localhost/folderprojectname/ in your web browser to open the web application.
+  
+**Tip:** If you connect through MySQLWorkbench You need to set your password of your localhost in the file. connectdb.php
+  
 ## How to use
-- Fill in your username and password.
+- Fill in Email and Password.
+  [Email = A@gmail.com Password = 1]
+  **You can update the password as you wish in the database file.**
 - Choose the food menu you want.
-- Press the payment button.
-- When ordering, the system will show that the order has been entered into the system.
-
+- Press the save order button.
+- In addition, within the system, it is also possible to manage products, categories, and orders comprehensively.
+  
+    
 #### ⭐️  If you are satisfied with this project Please don't forget to rate us, Thank you so much for visiting our project!!!
+
