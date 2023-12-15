@@ -6,6 +6,12 @@
 ## Demo
 * Video clip on demonstration: https://drive.google.com/drive/folders/1uDCkl2nbt6Q8w-6c56Tl8fGNxZD1aKsk
 
+## Feature
+- It is accessed through a database system.
+- Can create food categories, Menu
+- There is an ordering system.
+- Can keep order history
+
 ## Prerequisites
 You must have following programs/packages in order to run this project.
 
