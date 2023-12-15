@@ -24,7 +24,9 @@ You must have following programs/packages in order to run this project.
   
 ## How to use
 - Fill in Email and Password.
+
   [Email = A@gmail.com Password = 1]
+
   **You can update the password as you wish in the database file.**
 - Choose the food menu you want.
 - Press the save order button.
