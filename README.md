@@ -12,6 +12,7 @@
 - Entries can be edited and can be deleted.
 - There is an ordering system.
 - Can keep order history
+- All order information is stored. Results are displayed as a table and graphs of sales numbers .And sales amounts can be searched by sales date.
 
 ## Prerequisites
 You must have following programs/packages in order to run this project.
