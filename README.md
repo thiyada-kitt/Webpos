@@ -25,7 +25,7 @@ You must have following programs/packages in order to run this project.
 - Configure your database schema credentials or create schema in MySQLWorkbench [database_name is 'pos_db'] 
 - Import database using (SQL Developer/SQL++, TOAD, etc).
 - Open the Xampp server simulator and enable Apache and MySQL.
-- Use the command localhost/folderprojectname/ in your web browser to open the web application.
+- Use the command localhost/folderprojectname/ in your URL web browser to open the web application.
   
 **Tip:** If you connect through MySQLWorkbench You need to set your password of your localhost in the file. connectdb.php
   
