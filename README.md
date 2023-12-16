@@ -17,7 +17,7 @@
 ## Prerequisites
 You must have following programs/packages in order to run this project.
 
-**Technology** - PHP / HTML / CSS / JavaScript / MySQL / Xampp / bootstrap
+**Technology** - PHP / HTML / CSS / JavaScript / MySQL / Xampp / bootstrap / jQuery / DataTables / Select2
 
 **integrated development environment** - Visual Studio Code / MySQL Workbench 
 
