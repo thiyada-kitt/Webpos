@@ -16,7 +16,7 @@
 ## Prerequisites
 You must have following programs/packages in order to run this project.
 
-**Technology** - PHP / HTML / CSS / JavaScript / MySQL / Xampp
+**Technology** - PHP / HTML / CSS / JavaScript / MySQL / Xampp / bootstrap
 
 **integrated development environment** - Visual Studio Code / MySQL Workbench 
 
@@ -27,7 +27,7 @@ You must have following programs/packages in order to run this project.
 - Open the Xampp server simulator and enable Apache and MySQL.
 - Use the command localhost/folderprojectname/ in your URL web browser to open the web application.
   
-**Tip:** If you connect through MySQLWorkbench You need to set your password of your localhost in the file. connectdb.php
+**Tip:** If you connect through MySQLWorkbench You need to set your password of your localhost in the file connectdb.php
   
 ## How to use
 - Fill in Email and Password.
