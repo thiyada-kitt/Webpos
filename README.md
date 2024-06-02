@@ -1,6 +1,6 @@
 # WEB APPLICATION POS 
 ## Demo
-* Video clip on demonstration: https://drive.google.com/drive/folders/1uDCkl2nbt6Q8w-6c56Tl8fGNxZD1aKsk
+* Video clip on demonstration: [click here](https://drive.google.com/drive/folders/1uDCkl2nbt6Q8w-6c56Tl8fGNxZD1aKsk)
 
 ## Feature
 - It is accessed through a database system.
