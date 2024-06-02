@@ -18,7 +18,7 @@ You must have following programs/packages in order to run this project.
 **integrated development environment** - Visual Studio Code / MySQL Workbench 
 
 ## Approach
-- First need to download this repositories -> drive: https://drive.google.com/drive/folders/1XNf_34zX24CKUVOCDkfilCr6-ds-nL02?usp=drive_link
+- First need to download this repositories -> drive: [click here](https://drive.google.com/drive/folders/1XNf_34zX24CKUVOCDkfilCr6-ds-nL02?usp=drive_link)
 - Configure your database schema credentials or create schema in MySQLWorkbench [database_name is 'pos_db'] 
 - Import database using (SQL Developer/SQL++, TOAD, etc).
 - Open the Xampp server simulator and enable Apache and MySQL.
