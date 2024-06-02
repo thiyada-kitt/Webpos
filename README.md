@@ -1,6 +1,4 @@
 # WEB APPLICATION POS 416-439
-#### Work for oop project [1/66]
-> This is a POS point of sale system program for restaurants. That was developed in the oo programming concept that can allow users to purchase food items more conveniently.
 -----------------------------------------------------------------------------------------------------------------
 
 ## Demo
