@@ -1,6 +1,4 @@
-# WEB APPLICATION POS 416-439
------------------------------------------------------------------------------------------------------------------
-
+# WEB APPLICATION POS 
 ## Demo
 * Video clip on demonstration: https://drive.google.com/drive/folders/1uDCkl2nbt6Q8w-6c56Tl8fGNxZD1aKsk
 
